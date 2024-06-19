@@ -1,1 +1,1 @@
-# Task-1-fake-news-detection
+A Repository containing codes for CODXO internship task.
